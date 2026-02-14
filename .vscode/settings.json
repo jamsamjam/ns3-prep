@@ -1,3 +1,4 @@
 {
-    "cmake.sourceDirectory": "/Users/sam/Desktop/you/ns3-prep/ns-3"
+    "cmake.sourceDirectory": "/Users/sam/Desktop/you/ns3-prep/ns-3",
+    "codeQL.githubDatabase.download": "never"
 }
